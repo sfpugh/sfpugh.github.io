@@ -52,6 +52,7 @@ div.clear {
 	</div>
 
 	<div class="right">
+		<p style="color:red;">Page under construction...</p>
 		<h2 style="color:navy;">Bio</h2>
 		<p>I am a second-year PhD student in the Department of Computer and Information Science at the University of Pennsylvania. My advisors are professor <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a> and professor <a href="https://www.seas.upenn.edu/~weimerj/">James Weimer</a>.</p>
 
@@ -108,6 +109,15 @@ div.clear {
 	</div>
 	
 	<div class="clear">
+		
+	<p id="modified_date"></p>
+		
+	<script>
+	function myFunction() {
+	  var x = new Date(document.lastModified);
+	  document.getElementById("modified_date").innerHTML = x;
+	}
+	</script>
 </div>
 </body>
 
