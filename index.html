@@ -1,10 +1,55 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Sydney Pugh</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+.flex-container .box {
+    float: left;
+    width: 50%;
+    padding: 25px;
+}
+.flex-container .recent-news {
+    width: 100%;
+    border: 1px solid gray;
+}
+</style>
+<title>Sydney Pugh</title>
 </head>
 <body>
-    In progress...
+    <div class="header" id="my_header" style="text-align: center;">
+        <h1>Sydney Pugh</h1>
+        <h2>PhD Student at the University of Pennsylvania</h2>
+        <!-- TODO: Add menu bar here-->
+    </div>
+
+    <div class="flex-container">
+        <div class="box">
+            <img src="headshot.jpg" align="left" width="200" height="200">
+            <body>
+                <b>CONTACT:</b> sfpugh@seas.upenn.edu <br> <a href="https://www.linkedin.com/in/sydney-pugh-a86541158">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=-_RR_IAAAAAJ&hl=en&oi=ao">GoogleScholar</a>
+            </body>
+        </div>
+        <div class="box">
+            <!-- TODO: Put biography next to picture. -->
+            <p>I am a graduate student at the University of Pennsylvania pursuing my PhD in Computer and Information Science. My advisors are <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a> and <a href="https://www.seas.upenn.edu/~weimerj/">James Weimer</a>. My research interests include machine learning, Internet of Medical Things (IoMT), and security. I earned a M.S. in Computer and Information Science from the University of Pennsylvania in 2021 and a B.S. in Applied Mathematics and Computer Science from Loyola University Maryland in 2019.</p>
+        </div>
+    </div>
+    <div class="flex-container">
+        <div class="recent-news">
+            <h3>Recent News</h3>
+
+            <p><b>October 2021:</b> Our paper entitled "High-Confidence Data Programming for Evaluating Suppression of Physiological Alarms" was accepted to ACM/IEEE Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE).</p>
+
+            <p><b>October 2021:</b> Our poster entitled "FRED: Fall Risk Evaluation Database Based on Electronic Health Record Data" was accepted to ACM/IEEE Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE).</p>
+
+            <p><b>August 2020.</b> I virtually attended the 2nd Annual Embedded Security (EmSec) Workshop at the SPQR Lab at the University of Michigan.</p>
+
+            <p><b>February 2020.</b> Our paper "On Adaptive Change Recommendation" was accepted into the Journal of Systems and Software.
+        </div>
+    </div>
 </body>
 </html>
