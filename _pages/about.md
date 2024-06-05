@@ -21,4 +21,4 @@ My research interests are in developing safe and effective artificial intelligen
 
 During my Ph.D. program, I earned a master's degree in computer and information science from the University of Pennsylvania in 2021. Prior to that, I earned a bachelor's degree in applied mathematics and computer science from [Loyola University Maryland](https://www.loyola.edu/) in 2019. 
 
-<span style="color:red">I recently defended my dissertation and will be graduating in August 2024! I am actively seeking full-time positions starting in August 2024. Please reach out if you have any opportunities or would like to connect.</span>
+<span style="color:red">**I recently defended my dissertation and will be graduating in August 2024! I am actively seeking full-time positions starting in August 2024. Please reach out if you have any opportunities or would like to connect.**</span>
