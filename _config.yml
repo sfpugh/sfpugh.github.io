@@ -27,7 +27,7 @@ author:
   bio              : "Postdoctoral Researcher"
   location         : 
   employer         : "University of Pennsylvania"
-  uri              : "https://www.upenn.edu/" # URL
+  uri              : # URL
   email            : "Sydney.Pugh@pennmedicine.upenn.edu" 
 
   # Academic websites
