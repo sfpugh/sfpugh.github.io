@@ -9,7 +9,7 @@ main:
     url: /research/
     
   - title: "CV"
-    url: /files/Pugh_CV.pdf
+    url: /cv/
     
   - title: "Guide"
     url: /markdown/
