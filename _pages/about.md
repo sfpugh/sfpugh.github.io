@@ -14,7 +14,7 @@ Hi! I am Sydney Pugh, a postdoctoral researcher in the [Artificial Intelligence 
 I earned my Ph.D. in [Computer and Information Science (CIS)](https://www.cis.upenn.edu/) at the University of Pennsylvania in August 2024. My [disseration](https://www.proquest.com/openview/d1142238baa72023e1668a6caf01e8a7/1?pq-origsite=gscholar&cbl=18750&diss=y) explored weakly-supervised methods for rapid and cost-effective performance evaluation of medical AI systems. I also earned my M.S.E. in CIS at UPenn in 2021. Prior to that, I earned my B.S. in Applied Mathematics and Computer Science from [Loyola University Maryland](https://www.loyola.edu/) in 2019.
 
 ### News
-* **October 1, 2024**: I started my postdoc position in the AI-4-AI Lab at Upenn!
+* **October 1, 2024**: I started my postdoc position in the AI-4-AI Lab at UPenn!
 * **August 9, 2024**: I officially earned my Ph.D.!
 * **June 19, 2024**: Our paper "Automating Weak Label Generation for Data Programming with Clinicians in the Loop" was presented at the IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE24).
 * **May 30, 2024**: Our ICCPS24 paper "Curating Naturally Adversarial Datasets for Learning-Enabled Medical Cyber-Physical Systems" was recognized as a _Best Paper Award_ finalist!
