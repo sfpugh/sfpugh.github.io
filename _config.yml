@@ -21,7 +21,7 @@ repository               : "sfpugh/sfpugh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot1v2_202408.jpg"
+  avatar           : "headshot1v2_202408_cropped.jpg"
   name             : "Sydney Pugh"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
