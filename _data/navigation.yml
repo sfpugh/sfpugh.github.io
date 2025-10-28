@@ -7,6 +7,10 @@
 main:
   - title: "Research"
     url: /research/
+
+  - title: "Publications "
+    url: https://scholar.google.com/citations?user=bq54roYAAAAJ&hl=en
+    class: "external-link"
     
   - title: "CV"
     url: /files/PUGH_CV.pdf
