@@ -9,7 +9,7 @@ main:
     url: /research/
 
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=bq54roYAAAAJ&hl=en
+    url: https://scholar.google.com/citations?hl=en&user=bq54roYAAAAJ&view_op=list_works&sortby=pubdate
     class: "external"
     
   - title: "CV"
