@@ -9,17 +9,17 @@ My research focuses on developing trustworthy and explainable multimodal artific
 
 ## WATCH-SS (Warning Assessment and Alerting Tool for Cognitive Health from Spontaneous Speech)
 
-![WATCH-SS info graphic.](/files/watch-graphic.pdf)
+![WATCH-SS info graphic.](/files/watch-graphic.png)
 
 Over 50% of people living with Alzheimer's disease (AD) are <span style="color:red">**undiagnosed**</span>. Many people who have emerging concerns about their cognitive health first consult their primary care physician (PCP), but very few actually receive a diagnosis for cognitive decline due to factors like PCPs' time constraints, competing priorities, lack of expertise or comfort with AD diagnosis. **Thus we are developing WATCH-SS, a screening tool for primary care which passively analyzes a patient's speech during a clinic visit to assess risk of cognitive impairment (CI).** To do this, WATCH-SS runs a set of detectors for five acoustic and linguistic signs of CI and these detections are fed through a predictive model to predict CI. The detectors are a mixture of natural language processing (NLP) -based algorithms and large-language models (LLMs). Our evaluation shows that WATCH-SS achieves strong predictive performance (AUC 0.95 for test and 0.80 for train on DementiaBank data), and its design allows us to effectively explain and verify our risk prediction.
 
-[[Paper]](https://www.medrxiv.org/content/10.1101/2025.08.06.25333047v1.full.pdf) [[Poster]](/files/watch-ss-poster-48x36.pdf) [[Code]](https://github.com/kbjohnson-penn/WATCH-SS)
+[[Paper]](https://doi.org/10.1142/9789819824755_0024) [[Poster]](https://doi.org/10.7490/f1000research.1120305.1) [[Code]](https://github.com/kbjohnson-penn/WATCH-SS)
 
 ---
 
 ## Evaluating Robustness of Medical AI Systems with Naturally Adversarial Datasets 
 
-![Robustness evaluation info graphic.](/files/robustness-graphic.pdf)
+![Robustness evaluation info graphic.](/files/robustness-graphic.png)
 
 [[Paper]](https://arxiv.org/pdf/2309.00543) [[Code]](https://github.com/sfpugh/Naturally-Adversarial-Datasets)
 
@@ -27,7 +27,7 @@ Over 50% of people living with Alzheimer's disease (AD) are <span style="color:r
 
 ## Evaluating Physiologic Monitoring Alarm Suppression Systems with High-Confidence Data Programming
 
-![High confidence data programming info graphic.](/files/high-conf-data-prog-graphic.pdf)
+![High confidence data programming info graphic.](/files/high-conf-data-prog-graphic.png)
 
 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3549942) [[Code]](https://github.com/sfpugh/Evaluating-Alarm-Classifiers-with-High-Confidence-Data-Programming)
 
@@ -35,6 +35,6 @@ Over 50% of people living with Alzheimer's disease (AD) are <span style="color:r
 
 ## Automating Weak Label Generation for Data Programming with Clinicians in the Loop
 
-![Weak label generation info graphic.](/files/weak-label-gen-graphic.pdf)
+![Weak label generation info graphic.](/files/weak-label-gen-graphic.png)
 
 [[Paper]](https://arxiv.org/pdf/2407.07982)
