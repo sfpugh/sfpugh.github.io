@@ -14,7 +14,7 @@ Hi! I am Sydney Pugh, a postdoctoral researcher in the [Artificial Intelligence 
 I earned my Ph.D. in [Computer and Information Science (CIS)](https://www.cis.upenn.edu/) at the University of Pennsylvania in August 2024, where I was advised by [Insup Lee](https://www.cis.upenn.edu/~lee/home/index.shtml) and [James Weimer](https://jamesweimer.net/). My [disseration](https://www.proquest.com/openview/d1142238baa72023e1668a6caf01e8a7/1?pq-origsite=gscholar&cbl=18750&diss=y) explored weakly-supervised methods for rapid and cost-effective performance evaluation of medical AI systems. I also earned my M.S.E. in CIS at UPenn in 2021. Prior to that, I earned my B.S. in Applied Mathematics and Computer Science from [Loyola University Maryland](https://www.loyola.edu/) in 2019.
 
 ### News
-* **January 5, 2026**: Our poster on WATCH-SS was presented at the Pacific Symposium on Biocomputing on Big Island, Hawaii!
+* **January 5, 2026**: Our [poster](https://doi.org/10.7490/f1000research.1120305.1) on WATCH-SS was presented at the Pacific Symposium on Biocomputing on Big Island, Hawaii!
 * **September 9, 2025**: Our paper "[WATCH-SS: Developing a Trustworthy and Explainable Modular Framework for Detecting Cognitive Impairment from Spontaneous Speech](https://doi.org/10.1142/9789819824755_0024)" was accepted to the Pacific Symposium on Biocomputing (PSB26)!
 * **August 21, 2025**: Our paper "MedVidDeID: Protecting Privacy in Clinical Encounter Video Recordings" was accepted to the Journal of Biomedical Informatics (JBI).
 * **March 17, 2025**: I was accepted into the [Penn AI Fellows](https://web.sas.upenn.edu/data-science/postdoctoral-fellows/) program!
