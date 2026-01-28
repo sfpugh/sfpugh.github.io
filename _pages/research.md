@@ -31,6 +31,8 @@ To ensure robustness of medical AI systems, we must move beyond unrealistic synt
 
 ![High confidence data programming info graphic.](/files/high-conf-data-prog-graphic.png)
 
+Deploying alarm suppression algorithms requires rigorous validation, yet obtaining the expert-labeled datasets needed to test them is often prohibitively expensive. We introduce a **High-Confidence Data Programming** framework that enables researchers to evaluate classifiers directly on massive unlabeled datasets. By combining clinical heuristics into probabilistic labels and filtering for only the highest-confidence examples, our method generates a '*proxy ground truth*.' This allows us to derive statistical confidence bounds for a model's sensitivity and specificity, providing a reliable performance estimate *without* the need for manual annotation.
+
 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3549942) [[Code]](https://github.com/sfpugh/Evaluating-Alarm-Classifiers-with-High-Confidence-Data-Programming)
 
 ---
